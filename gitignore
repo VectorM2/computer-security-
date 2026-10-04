@@ -1,0 +1,12 @@
+# Datasets (too large for GitHub, download separately — see README)
+*.binetflow
+*.pcap
+
+# Generated outputs (re-created by running the scripts)
+*.csv
+*.json
+results/
+__pycache__/
+*.pyc
+.venv/
+venv/
